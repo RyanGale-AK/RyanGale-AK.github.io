@@ -1,0 +1,5 @@
+baseURL = "https://datascenic.github.io/"
+languageCode = "en-us"
+title = "Ryan Gale"
+background = "images/alaska_range.jpg"
+theme = "dimension"

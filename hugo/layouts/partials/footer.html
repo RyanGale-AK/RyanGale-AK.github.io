@@ -1,0 +1,14 @@
+
+{{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
+    <!-- Scripts -->
+    <script src={{ "assets/js/jquery.min.js" | absURL }}></script>
+    <script src={{ "assets/js/browser.min.js" | absURL }}></script>
+    <script src={{ "assets/js/breakpoints.min.js" | absURL }}></script>
+    <script src={{ "assets/js/util.js" | absURL }}></script>
+    <script src={{ "assets/js/main.js" | absURL }}></script>
+    <script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+</html>
