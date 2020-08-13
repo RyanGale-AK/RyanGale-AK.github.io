@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Highlight Reel on Ryan Gale</title>
+    <link>https://datascenic.github.io/posts/</link>
+    <description>Recent content in Highlight Reel on Ryan Gale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://datascenic.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Q-Learning</title>
+      <link>https://datascenic.github.io/posts/dqn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datascenic.github.io/posts/dqn/</guid>
+      <description>This article chronicles my dive into reinforcement learning and the training of a deep neural network agent to play Pong on the Atari 2600. This compiles information from a handful of fantastic teachers including Ryan Benmalek, Lilian Weng, Richard Sutton, Andrej Karpathy, among others listed in the references.
+Background  Reinforcement learning is a subset of machine learning involving the training of an agent to optimally interact with its environment. As the agent explores its environment it will receive rewards that indicate how well it is doing at its task.</description>
+    </item>
+    
+  </channel>
+</rss>

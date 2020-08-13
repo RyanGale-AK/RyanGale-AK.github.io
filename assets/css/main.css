@@ -1757,3 +1757,25 @@ body {
 		left: 0%;
 	}
 }
+
+/* landing page text */
+.homepage_title {
+	font-family: 'Oxygen', sans-serif;
+	font-size: 350%;
+}
+
+/* Gallery styling */
+
+#header nav ul.gallery {
+	border: none;
+	padding: none;
+	color: transparent;
+}
+
+
+#header nav ul li a.gallery {
+	display: table;
+	border: none;
+	padding: none;
+	color: transparent;
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Scenic on Ryan Gale</title>
+    <link>https://ryangale-ak.github.io/</link>
+    <description>Recent content in Data Scenic on Ryan Gale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ryangale-ak.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://ryangale-ak.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryangale-ak.github.io/about/</guid>
+      <description>This is Ryan! I&amp;rsquo;m a recent graduate from Cornell Tech documenting my journey in machine learning. My interests include computational physics, robotics, cyber-security, reinforcement learning, and entrepreneurship. This site is a little bit of that and a little bit of this.
+When I&amp;rsquo;m not coding or reading tech blogs I love exploring the outdoors, martial arts, chess, and photography. One of my favorite outdoor memories is fishing in the Gulf of Alaska.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ryangale-ak.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryangale-ak.github.io/contact/</guid>
+      <description>&amp;quot; &amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Deep Q-Learning</title>
+      <link>https://ryangale-ak.github.io/posts/dqn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryangale-ak.github.io/posts/dqn/</guid>
+      <description>This article chronicles my dive into reinforcement learning and the training of a deep neural network agent to play Pong on the Atari 2600. This compiles information from a handful of fantastic teachers including Ryan Benmalek, Lilian Weng, Richard Sutton, Andrej Karpathy, among others listed in the references.
+Background  Reinforcement learning is a subset of machine learning involving the training of an agent to optimally interact with its environment. As the agent explores its environment it will receive rewards that indicate how well it is doing at its task.</description>
+    </item>
+    
+  </channel>
+</rss>
