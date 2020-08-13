@@ -1763,6 +1763,10 @@ body {
 	font-size: 350%;
 }
 
+.homepage_description {
+	font-family: 'Oxygen', sans-serif;
+}
+
 /* Gallery styling */
 
 #header nav ul.gallery {
