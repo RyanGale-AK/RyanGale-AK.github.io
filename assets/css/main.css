@@ -1785,10 +1785,14 @@ body {
 		padding-left: 0%;
 	}
 
+	/* TODO: fix cellphone projects link */
+	/* #header nav ul li {
+		padding: 0px 0px;
+	}
+
 	#header nav ul li a {
 		display: contents;
-		line-height: 1px;
-	}
+	} */
 }
 
 /* landing page text */
