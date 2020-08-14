@@ -1,8 +1,7 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 @import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 /*
 	Dimension by HTML5 UP
@@ -10,8 +9,18 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 110%;
+	font-family: 'Roboto', sans-serif;
+	/* font: inherit; */
+	vertical-align: baseline;
+}
+
 html, body, div, span, applet, object,
-iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+iframe, h1, h2, h3, h4, h5, h6, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var, b,
@@ -25,7 +34,8 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	font-family: 'Oxygen', sans-serif;
+	/* font: inherit; */
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -198,7 +208,7 @@ input, select, textarea {
 			width: -ms-max-content;
 			width: max-content;
 			padding-bottom: 0.5rem;
-			margin: 0 0 2rem 0;
+			margin: none;
 		}
 
 	h1 {
@@ -275,7 +285,7 @@ input, select, textarea {
 		-webkit-overflow-scrolling: touch;
 		font-family: "Courier New", monospace;
 		font-size: 0.9rem;
-		margin: 0 0 2rem 0;
+		margin: none;
 	}
 
 		pre code {
@@ -1731,7 +1741,6 @@ body {
 /* The actual content */
 .timeline_content {
 	padding-left: 30%;
-	padding-bottom: 5%;
 	background-color: transparent;
 	position: relative;
 	border-radius: 0px;
@@ -1768,17 +1777,19 @@ body {
 }
 
 /* Gallery styling */
-
 #header nav ul.gallery {
 	border: none;
 	padding: none;
 	color: transparent;
 }
 
-
 #header nav ul li a.gallery {
 	display: table;
 	border: none;
 	padding: none;
 	color: transparent;
+}
+
+div#wrapper {
+	padding: 0.5rem 0.5rem;
 }
