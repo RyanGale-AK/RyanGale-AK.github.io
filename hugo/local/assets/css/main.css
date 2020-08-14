@@ -1795,3 +1795,7 @@ body {
 div#wrapper {
 	padding: 0.5rem 0.5rem;
 }
+
+h1.major {
+	width: 100%;
+}
