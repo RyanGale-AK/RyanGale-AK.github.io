@@ -1734,10 +1734,10 @@ body {
 }
 
 .timeline_image {
+	position: absolute;
 	padding-top: 2%;
 	padding-bottom: 10%;
 	background-color: transparent;
-	position: absolute;
 }
 
 /* The actual content */
@@ -1765,6 +1765,25 @@ body {
 	/* Make all right containers behave like the left ones */
 	.right {
 		left: 0%;
+	}
+
+	.timeline_image {
+		position: relative;
+		padding-top: 2%;
+		padding-bottom: 10%;
+		background-color: transparent;
+		width: 50%;
+		height: 50%;
+		padding: 0%;
+		margin: auto;
+	}
+	
+	/* The actual content */
+	.timeline_content {
+		background-color: transparent;
+		position: relative;
+		border-radius: 0px;
+		padding-left: 0%;
 	}
 }
 
