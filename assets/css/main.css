@@ -1784,6 +1784,11 @@ body {
 		border-radius: 0px;
 		padding-left: 0%;
 	}
+
+	#header nav ul li a {
+		display: contents;
+		line-height: 1px;
+	}
 }
 
 /* landing page text */
