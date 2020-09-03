@@ -241,6 +241,10 @@ input, select, textarea {
 
 	@media screen and (max-width: 736px) {
 
+		#header .content
+		p {
+			font-size: .75rem;
+		}
 		p.homepage_description {
 			font-size: .75rem;
 		}
