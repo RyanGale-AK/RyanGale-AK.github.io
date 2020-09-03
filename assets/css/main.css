@@ -1377,6 +1377,10 @@ input, select, textarea {
 					border-left: 0;
 				}
 
+				#header nav ul li {
+					overflow-wrap: break-word;
+				}
+
 				#header nav ul li a {
 					display: block;
 					overflow-wrap: break-word;
