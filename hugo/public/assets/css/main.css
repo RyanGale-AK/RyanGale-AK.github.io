@@ -228,8 +228,12 @@ input, select, textarea {
 
 	@media screen and (max-width: 736px) {
 
+		p {
+			font-size: .75rem;
+		}
+
 		h1 {
-			font-size: 1.75rem;
+			font-size: 1.25rem;
 			line-height: 1.4;
 		}
 
