@@ -241,11 +241,11 @@ input, select, textarea {
 
 	@media screen and (max-width: 736px) {
 
-		p {
+		p.homepage_description {
 			font-size: .75rem;
 		}
 
-		h1 {
+		h1.homepage_title {
 			font-size: 1.25rem;
 			line-height: 1.4;
 		}
