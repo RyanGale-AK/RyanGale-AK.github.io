@@ -1512,7 +1512,7 @@ input, select, textarea {
 							width: 100%;
 						}
 
-						#header nav ul li a.projects {
+						#header nav ul li a .projects {
 							height: 3.25rem;
 							line-height: 1.5rem;
 							min-width: 0;
